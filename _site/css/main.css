@@ -62,9 +62,9 @@ header .header-content .header-content-inner p { font-weight: 400; color: rgba(2
 
 .service-box p { margin-bottom: 0; }
 
-.row-portfolio1 { display: flex; }
+.row-portfolio1::after { content: ""; clear: both; display: table; }
 
-.column-portfolio1 { flex: 50%; padding: 25px; }
+.column-portfolio1 { float: left; width: 50%; padding: 5px; }
 
 .portfolio-box { position: relative; display: block; max-width: 650px; margin: 0 auto; }
 
