@@ -223,12 +223,15 @@ header {
     }
 }
 
-.row-portfolio1 {
-    display: flex;
+.row-portfolio1::after {
+    content: "";
+  clear: both;
+  display: table;
 }
 .column-portfolio1{
-    flex: 50%;
-  padding: 25px;
+    float: left;
+  width: 50%;
+  padding: 5px;
 }
 
 .portfolio-box {
