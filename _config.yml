@@ -1,0 +1,48 @@
+# Site settings
+title: QuadraLogics
+email: info@quadralogics.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+#Heading 
+Head1: + + DevOps
+Head2: A Premier DevOps Training & Consulting Firm
+Head3: ↑Speed ↑Quality ↓Cost ↑Happiness
+
+#Call to action
+USPH: Most trusted DevOps training producers!
+USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ Practitioners. We are trusted partners with global brands like Pluralsight, Udacity, KnowledgeHut, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market.
+
+#services
+ServicesHeading: At Your Service
+
+Services1H: Training Services
+Services1: Quadralogics today is one of the most trusted training providers and a premium player in the B2B DevOps market. Since inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ Practitioners.
+
+Services2H: Content Development
+Services2: As a DevOps training producer and content provider, we have been regularly enabling our partners with up to date & state of the art training content. Few of our global partners include Pluralsight, Udacity, KnowledgeHut, etc.
+
+Services3H: DevOps Consulting
+Services3: Successful DevOps implementations rely on an integrated set of solutions or a "toolchain" to improve automation and increase your teams technical agility .Our dedicated team of qualified and experienced DevOps consultants will enable you to deliver high-quality products faster.
+
+Services4H: DevOps Master Workshop
+Services4: “DevOps Master Workshop” series is our flagship public trainings and is one of the most rated training in the market. This hands-on workshop includes 72 hours training , covers 11 tools across 200+ senarios
+
+
+#Clinets
+clinetsH : Our Clients
+
+#Ribbon 
+RHead1: Current Public Workshops
+RHead2: DevOps Master Architect Workshop!
+RHead3: 72 hours | 11 tools | 200+ hands-on Senarios
+RCTA:  Enroll Now!
+
+ph_number: +91-6362315334
+github_username: linkedin/company/quadralogics
+
+footer: ©  2020  www.quadralogics.com
+
+# Build settings
+markdown: kramdown
