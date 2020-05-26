@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 #Heading 
-Head1: The DevOps Master Architect Workshop
+Head1: DevOps Master Architect Workshop
 Head2: Learn from the comfort of your home 
 Head3: 72+ hours of the instructor-led, live , hands-on workshop
 HeadCTA: Enroll Now
