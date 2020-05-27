@@ -52,7 +52,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(white, .9);
+    color: rgba(white, 1);
 }
 
 section {
@@ -292,13 +292,7 @@ header {
     }
 }
 
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 35px;
-    height: 0;
-    
-}
+
 
 .call-to-action {
     h2 {
