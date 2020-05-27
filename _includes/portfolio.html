@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Learn from the Expert!</h2>
+                <h2 class="section-heading">{{cite.portfolioHeader}}</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -11,9 +11,9 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center">
                 <div class="service-box1">
-                    <h2 class="team-title">Help us help you </h2>
+                    <h2 class="team-title">{{ site.portfolioHeaderA }} </h2>
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe  width="560" height="315" src="https://www.youtube.com/embed/i2Vh6yUiZn4" frameborder="0"
+                        <iframe  width="560" height="315" src=" {{ site.portfolioHeaderLink }}" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
@@ -21,19 +21,12 @@
             </div>
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 text-center">
                 <div class="service-box1">
-                    <h2 class="team-title">About your trainer </h2>
-                    <h3> Anju M Dominic</h3>
+                    <h2 class="team-title">{{ site.portfolioHeaderB }}</h2>
+                    <h3> {{site.portfolioHeaderBN }}</h3>
                     <div class="team-designation">
-                        <h4>Founder | Speaker | Author</h4>
+                        <h4>{{ site.portfolioHeaderB1 }}</h4>
                     </div>
-                    <div class="team-content">Anju M Dominic is a well accredited professional corporate trainer and
-                        consultant in the field of DevOps . She has conducted over 70+ hands-on workshops across
-                        different product and service companies. She is also a trainer/author across various training
-                        companies including PluralSight, Edureka, KnowledgeHut, etc. She is currently the Principal
-                        consultant and founder of QuadraLogics, a boutique training/consulting firm. Anju is well known
-                        for her contributions to technical articles which includes two books and several whitepapers in
-                        the field of software engineering. She is also a regular speaker for many DevOps and Agile
-                        conferences.</div>
+                    <div class="team-content">{{ site.portfolioHeaderB1C }}</div>
                     <div class="team-social">
                         <div class="team-social-block">
                             <a href="https://www.linkedin.com/in/anju-dominic/"><i class="fa fa-linkedin"></i></a>
