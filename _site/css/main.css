@@ -82,6 +82,8 @@ header .header-content .header-content-inner p { font-weight: 400; color: rgba(2
 
 @media (min-width: 768px) { .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category { font-size: 16px; } .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name { font-size: 22px; } }
 
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; }
+
 .call-to-action h2 { margin: 0 auto 20px; }
 
 .text-primary { color: #03a3b8; }
