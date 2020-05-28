@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 company: QuadraLogics
 #Heading 
-Head1: DevOps Master Architect Workshop
+Head1: DevOps <br /> Master Architect <br /> Workshop
 Head2: Learn from the comfort of your home 
 Head3: 72+ hours of the instructor-led, live , hands-on workshop
 HeadCTA: Enroll Now
@@ -14,7 +14,7 @@ HeadCTALink: https://drive.google.com/u/0/uc?id=1jIOXTEolfSOy2nYpC1QxoVlfX_xn5Fn
 
 #Call to action
 USPH: QuadraLogics Advantage
-USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ Practitioners. We are trusted partners with global brands like Pluralsight, Udacity, KnowledgeHut, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market.Hence enrolling your self with our DevOps Master program entitles you to avail the program at a wholesale price. Building on our experience and exposure our industry experts have carefully handcrafted the “DevOps Master Workshop ” series, we use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands on,real-life scenarios in our labs. This unique style enables the practitioner to be more competent and highly productive after the workshop. 
+USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, KnowledgeHut, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market.Hence enrolling your self with our DevOps Master program entitles you to avail the program at a wholesale price. Building on our experience our industry experts have carefully handcrafted the “DevOps Master Workshop ” series, we use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands on,real-life scenarios in our labs. This unique style enables the practitioner to be more competent and highly productive after the workshop. 
 
 TContentH: Download Training Contents
 TContentB: Topics include Docker, Kubernetes, Jenkins, Puppet, Ansible, Chef, Terraform, AWS Cloud formation, Nagios, Git, & InSpec
